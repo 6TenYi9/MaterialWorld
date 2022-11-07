@@ -41,7 +41,7 @@
       app:previewText="@string/text_appearance_h1_label"
       app:previewTextAppearance="?attr/textAppearanceHeadline1"
       android:layout_marginTop="@dimen/keyline_2"
-      android:layout_marginBottom="@dimen/keyline_2" />
+      android:layout_marginBottom="@dimen/keyline_2"/>
 
     <io.material.materialthemebuilder.widget.TypeAttributeView
       android:layout_width="match_parent"
