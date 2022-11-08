@@ -38,4 +38,8 @@
         <item name="itemTextAppearance">?attr/textAppearanceBody2</item>
     </style>
 
+    <style name="widget.NewTheme" parent="Widget.MaterialComponents.Button.TextButton">
+        <item name="android:textColor">#592B8E</item>
+    </style>
+
 </resources>
