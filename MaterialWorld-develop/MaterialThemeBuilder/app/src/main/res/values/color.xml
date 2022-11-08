@@ -43,6 +43,7 @@
     <!--Color palette-->
     <color name="added">#870A0A</color>
     <color name="added2">#C84015</color>
+    <color name="added3">#7D15C8</color>
 
     <color name="purple_200">#bb86fc</color> <!--Color primary (dark)-->
     <color name="purple_500">#009688</color> <!--Color primary (light)-->
