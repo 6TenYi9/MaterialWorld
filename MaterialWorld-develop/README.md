@@ -31,41 +31,41 @@ the License.
 
 ## Changes applied in MaterialThemeBuilder
 
-*Tres colores añadidos en ( https://github.com/6TenYi9/MaterialWorld/blob/master/MaterialWorld-develop/MaterialThemeBuilder/app/src/main/res/values/color.xml )
+* Tres colores añadidos en ( https://github.com/6TenYi9/MaterialWorld/blob/master/MaterialWorld-develop/MaterialThemeBuilder/app/src/main/res/values/color.xml )
 >colores aplicados a:
->-https://github.com/6TenYi9/MaterialWorld/blob/master/MaterialWorld-develop/MaterialThemeBuilder/app/src/main/res/layout/fragment_instructions.xml
+>* https://github.com/6TenYi9/MaterialWorld/blob/master/MaterialWorld-develop/MaterialThemeBuilder/app/src/main/res/layout/fragment_instructions.xml
 >
->-https://github.com/6TenYi9/MaterialWorld/blob/master/MaterialWorld-develop/MaterialThemeBuilder/app/src/main/res/layout/activity_main.xml
+>* https://github.com/6TenYi9/MaterialWorld/blob/master/MaterialWorld-develop/MaterialThemeBuilder/app/src/main/res/layout/activity_main.xml
 >
->-https://github.com/6TenYi9/MaterialWorld/blob/master/MaterialWorld-develop/MaterialThemeBuilder/app/src/main/res/layout/drawer_header_layout.xml
+>* https://github.com/6TenYi9/MaterialWorld/blob/master/MaterialWorld-develop/MaterialThemeBuilder/app/src/main/res/layout/drawer_header_layout.xml
 >
->-https://github.com/6TenYi9/MaterialWorld/blob/master/MaterialWorld-develop/MaterialThemeBuilder/app/src/main/res/layout/subsystem_type.xml
+>* https://github.com/6TenYi9/MaterialWorld/blob/master/MaterialWorld-develop/MaterialThemeBuilder/app/src/main/res/layout/subsystem_type.xml
 >
->-https://github.com/6TenYi9/MaterialWorld/blob/master/MaterialWorld-develop/MaterialThemeBuilder/app/src/main/res/layout/type_attribute_view_layout.xml
+>* https://github.com/6TenYi9/MaterialWorld/blob/master/MaterialWorld-develop/MaterialThemeBuilder/app/src/main/res/layout/type_attribute_view_layout.xml
 
 https://github.com/6TenYi9/MaterialWorld/blob/master/MaterialWorld-develop/MaterialThemeBuilder/app/IMG/1.png?raw=true
 https://github.com/6TenYi9/MaterialWorld/blob/master/MaterialWorld-develop/MaterialThemeBuilder/app/IMG/2.png
 https://github.com/6TenYi9/MaterialWorld/blob/master/MaterialWorld-develop/MaterialThemeBuilder/app/IMG/4.png
 https://github.com/6TenYi9/MaterialWorld/blob/master/MaterialWorld-develop/MaterialThemeBuilder/app/IMG/6.png
 
-*Nuevo estilo "widget.NewTheme" añadido en ( https://github.com/6TenYi9/MaterialWorld/blob/master/MaterialWorld-develop/MaterialThemeBuilder/app/src/main/res/values/styles.xml )
+* Nuevo estilo "widget.NewTheme" añadido en ( https://github.com/6TenYi9/MaterialWorld/blob/master/MaterialWorld-develop/MaterialThemeBuilder/app/src/main/res/values/styles.xml )
 >Estilo aplicado a:
 >-https://github.com/6TenYi9/MaterialWorld/blob/master/MaterialWorld-develop/MaterialThemeBuilder/app/src/main/res/layout/component_cards.xml
 
 
-*Nuevo archivo añadido en carpeta font ( https://github.com/6TenYi9/MaterialWorld/blob/master/MaterialWorld-develop/MaterialThemeBuilder/app/src/main/res/font/newfont.xml )
+* Nuevo archivo añadido en carpeta font ( https://github.com/6TenYi9/MaterialWorld/blob/master/MaterialWorld-develop/MaterialThemeBuilder/app/src/main/res/font/newfont.xml )
 >Fuente aplicado a: 
->-https://github.com/6TenYi9/MaterialWorld/blob/master/MaterialWorld-develop/MaterialThemeBuilder/app/src/main/res/layout/activity_main.xml
+>* https://github.com/6TenYi9/MaterialWorld/blob/master/MaterialWorld-develop/MaterialThemeBuilder/app/src/main/res/layout/activity_main.xml
 
 https://github.com/6TenYi9/MaterialWorld/blob/master/MaterialWorld-develop/MaterialThemeBuilder/app/IMG/3.png
 
 **In branch parallel**
 
-*Imagen añadido al ( MaterialWorld-develop/MaterialThemeBuilder/app/src/main/res/mipmap-anydpi-v26/added.xml )
+* Imagen añadido al ( MaterialWorld-develop/MaterialThemeBuilder/app/src/main/res/mipmap-anydpi-v26/added.xml )
 >Aplicado a:
->-MaterialWorld-develop/MaterialThemeBuilder/app/src/main/res/layout/component_cards.xml
+>* MaterialWorld-develop/MaterialThemeBuilder/app/src/main/res/layout/component_cards.xml
 
-https://github.com/6TenYi9/MaterialWorld/blob/master/MaterialWorld-develop/MaterialThemeBuilder/app/IMG/5.png
+* https://github.com/6TenYi9/MaterialWorld/blob/master/MaterialWorld-develop/MaterialThemeBuilder/app/IMG/5.png
 
 
 
