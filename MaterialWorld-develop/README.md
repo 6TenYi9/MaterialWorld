@@ -43,10 +43,10 @@ the License.
 >
 >* https://github.com/6TenYi9/MaterialWorld/blob/master/MaterialWorld-develop/MaterialThemeBuilder/app/src/main/res/layout/type_attribute_view_layout.xml
 
-![alt text](https://github.com/6TenYi9/MaterialWorld/blob/master/MaterialWorld-develop/MaterialThemeBuilder/app/IMG/1.png?raw=true)
 ![alt text](https://github.com/6TenYi9/MaterialWorld/blob/master/MaterialWorld-develop/MaterialThemeBuilder/app/IMG/2.png)
-![alt text](https://github.com/6TenYi9/MaterialWorld/blob/master/MaterialWorld-develop/MaterialThemeBuilder/app/IMG/4.png)
 ![alt text](https://github.com/6TenYi9/MaterialWorld/blob/master/MaterialWorld-develop/MaterialThemeBuilder/app/IMG/6.png)
+![alt text](https://github.com/6TenYi9/MaterialWorld/blob/master/MaterialWorld-develop/MaterialThemeBuilder/app/IMG/1.png?raw=true)
+![alt text](https://github.com/6TenYi9/MaterialWorld/blob/master/MaterialWorld-develop/MaterialThemeBuilder/app/IMG/4.png)
 
 * Nuevo estilo "widget.NewTheme" añadido en ( https://github.com/6TenYi9/MaterialWorld/blob/master/MaterialWorld-develop/MaterialThemeBuilder/app/src/main/res/values/styles.xml )
 >Estilo aplicado a:
