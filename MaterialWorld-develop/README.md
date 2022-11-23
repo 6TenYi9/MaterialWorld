@@ -43,10 +43,10 @@ the License.
 >
 >* https://github.com/6TenYi9/MaterialWorld/blob/master/MaterialWorld-develop/MaterialThemeBuilder/app/src/main/res/layout/type_attribute_view_layout.xml
 
-https://github.com/6TenYi9/MaterialWorld/blob/master/MaterialWorld-develop/MaterialThemeBuilder/app/IMG/1.png?raw=true
-https://github.com/6TenYi9/MaterialWorld/blob/master/MaterialWorld-develop/MaterialThemeBuilder/app/IMG/2.png
-https://github.com/6TenYi9/MaterialWorld/blob/master/MaterialWorld-develop/MaterialThemeBuilder/app/IMG/4.png
-https://github.com/6TenYi9/MaterialWorld/blob/master/MaterialWorld-develop/MaterialThemeBuilder/app/IMG/6.png
+![alt text](https://github.com/6TenYi9/MaterialWorld/blob/master/MaterialWorld-develop/MaterialThemeBuilder/app/IMG/1.png?raw=true)
+![alt text](https://github.com/6TenYi9/MaterialWorld/blob/master/MaterialWorld-develop/MaterialThemeBuilder/app/IMG/2.png)
+![alt text](https://github.com/6TenYi9/MaterialWorld/blob/master/MaterialWorld-develop/MaterialThemeBuilder/app/IMG/4.png)
+![alt text](https://github.com/6TenYi9/MaterialWorld/blob/master/MaterialWorld-develop/MaterialThemeBuilder/app/IMG/6.png)
 
 * Nuevo estilo "widget.NewTheme" añadido en ( https://github.com/6TenYi9/MaterialWorld/blob/master/MaterialWorld-develop/MaterialThemeBuilder/app/src/main/res/values/styles.xml )
 >Estilo aplicado a:
@@ -57,7 +57,7 @@ https://github.com/6TenYi9/MaterialWorld/blob/master/MaterialWorld-develop/Mater
 >Fuente aplicado a: 
 >* https://github.com/6TenYi9/MaterialWorld/blob/master/MaterialWorld-develop/MaterialThemeBuilder/app/src/main/res/layout/activity_main.xml
 
-https://github.com/6TenYi9/MaterialWorld/blob/master/MaterialWorld-develop/MaterialThemeBuilder/app/IMG/3.png
+![alt text](https://github.com/6TenYi9/MaterialWorld/blob/master/MaterialWorld-develop/MaterialThemeBuilder/app/IMG/3.png)
 
 **In branch parallel**
 
@@ -65,7 +65,7 @@ https://github.com/6TenYi9/MaterialWorld/blob/master/MaterialWorld-develop/Mater
 >Aplicado a:
 >* MaterialWorld-develop/MaterialThemeBuilder/app/src/main/res/layout/component_cards.xml
 
-* https://github.com/6TenYi9/MaterialWorld/blob/master/MaterialWorld-develop/MaterialThemeBuilder/app/IMG/5.png
+*![alt text](https://github.com/6TenYi9/MaterialWorld/blob/master/MaterialWorld-develop/MaterialThemeBuilder/app/IMG/5.png)
 
 
 
